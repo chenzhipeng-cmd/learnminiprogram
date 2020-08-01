@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class='title'>Hello Wrold</text>
+<button size='mini'>按钮</button>
+<image src="图片地址"></image>
